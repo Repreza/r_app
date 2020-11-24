@@ -4,3 +4,4 @@ Saludos!, Este es mi primer archivo en el que se realiza un proyecto de caracter
 
 Commit 1: archivo readme.
 Commit 2: Proyecto base flutter.
+Commit 3: Splash Screen.
